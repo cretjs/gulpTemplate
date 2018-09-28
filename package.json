@@ -1,0 +1,21 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "> 文件夹下目录和文件的一些说明。建议先看一乍，防止误操作",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-uglify": "^3.0.1"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp-changed": "^3.2.0",
+    "gulp-clean-css": "^3.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
